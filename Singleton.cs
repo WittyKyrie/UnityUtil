@@ -40,5 +40,4 @@ public abstract class Singleton<T> : MonoBehaviour where T : Component
         Debug.Log("Base Awake");
     }
 
-	
 }
