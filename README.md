@@ -4,3 +4,5 @@
 现已添加Unity的MonoBehavior的单例模式基类
 
 添加了通用的对象池脚本
+
+添加2D角色通用控制器，代码参考Youtube的Tradev2D角色控制器，自己进行了一些修改
