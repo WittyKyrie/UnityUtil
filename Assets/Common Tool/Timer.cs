@@ -69,7 +69,7 @@ public class Timer
     }
     
     public static Timer Register(float duration, bool isLooped, bool useRealTime, Action onComplete) {
-        return Register(duration, onComplete, null, isLooped, useRealTime, null);
+        return Register(duration, onComplete, null, isLooped, useRealTime);
     }
 
     /// <summary>
